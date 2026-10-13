@@ -1,0 +1,6 @@
+{
+  "name": "AI Interviewer",
+  "description": "AI Interviewer - AI-powered technical coding and behavioral interview platform with real-time feedback, test runner, and evaluation reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
